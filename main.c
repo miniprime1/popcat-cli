@@ -3,14 +3,12 @@
 
 #ifdef _WIN32 || WIN32
 
-#define IS_WINDOWS 1
 #include <Windows.h>
 #define ClearConsole() system("cls");
 #define TimeSleep() Sleep(500);
 
 #else
 
-#define IS_WINDOWS 0
 #include <unistd.h>
 #define ClearConsole() system("clear");
 #define TimeSleep() sleep(0.5);
