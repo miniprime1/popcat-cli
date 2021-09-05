@@ -5,13 +5,13 @@
 
 #include <Windows.h>
 #define ClearConsole() system("cls");
-#define TimeSleep() Sleep(500);
+#define TimeSleep() Sleep(250);
 
 #else
 
 #include <unistd.h>
 #define ClearConsole() system("clear");
-#define TimeSleep() sleep(0.5);
+#define TimeSleep() sleep(0.25);
 
 #endif
 
