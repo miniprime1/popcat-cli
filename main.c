@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#ifdef _WIN32 || WIN32
+#ifdef _WIN32
 
 #include <Windows.h>
 #define ClearConsole() system("cls");
@@ -11,7 +11,7 @@
 
 #include <unistd.h>
 #define ClearConsole() system("clear");
-#define TimeSleep() sleep(0.25);
+#define TimeSleep() sleep(1);
 
 #endif
 
