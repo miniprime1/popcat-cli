@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <cstdlib.h>
-using namespace std;
+#include <stdlib.h>
 
 #ifdef _WIN32
 
