@@ -7,7 +7,7 @@
 #include <Windows.h>
 #define ClearConsole() system("cls");
 #define TimeSleep() Sleep(50);
-int ReadKey() { return (char)_getch(); }
+int ReadKey() { return _getch(); }
 
 #else
 
