@@ -1,5 +1,5 @@
-#include <iostream>
-#include <cstdlib>
+#include <stdio.h>
+#include <cstdlib.h>
 using namespace std;
 
 #ifdef _WIN32
@@ -84,19 +84,19 @@ const string popcat_closemouth_ascii =
 
 void pop(unsigned long long int i) {
     ClearConsole();
-    cout << popcat_openmouth_ascii;
-    cout << "You popped for " << i << " times!" << endl;
+    printf("%s", popcat_openmouth_ascii);
+    printf("You popped for %lld times!\n", i);
     TimeSleep();
     ClearConsole();
-    cout << popcat_closemouth_ascii;
-    cout << "You popped for " << i << " times!" << endl;
+    printf("%s", popcat_closemouth_ascii);
+    printf("You popped for %lld times!\n", i);
 }
 
 int main() {
     unsigned long long int i = 0;
 
     ClearConsole();
-    cout << popcat_closemouth_ascii;
+    printf("%s", popcat_closemouth_ascii);
     TimeSleep();
 
     for (;;) {
