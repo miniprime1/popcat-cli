@@ -92,220 +92,220 @@ void pop(unsigned long long int i) {
 }
 
 void update() {
-    if (false) {
+    if (0) {
     }
-    else if (false) {
+    else if (0) {
     }
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (true) {
-		ClearConsole();
-		printf("%s", popcat_closemouth_ascii);
-		TimeSleep();
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else if (false) {
-	}
-	else {
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (1) {
+        ClearConsole();
+        printf("%s", popcat_closemouth_ascii);
+        TimeSleep();
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else if (0) {
+    }
+    else {
 
-	}
+    }
 }
 
 int main() {
     unsigned long long int i = 0;
 
-	update();
+    update();
 
     for (;;) {
         if (ReadKey()) { i++; pop(i); }
