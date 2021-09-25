@@ -19,4 +19,4 @@ pop pop pop pop pop pop pop pop
  - `[1.0]` Basic features
 
 ## License
- - [MIT License](license.txt)
+ - [MIT License](LICENSE)
