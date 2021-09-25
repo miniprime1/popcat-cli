@@ -26,6 +26,26 @@ On Linux you can use one of the following options to install the app:
  - Debian Software Package (popcat-1.0.0-linux.deb)
  - Portable Zip Package (popcat-1.0.0-embed-linux.zip)
 
+## Build from Source Code
+ To build the application from source code, first install the required dependencies:
+  - GCC 9.1.0+ for Unix
+  - Visual Studio 2019 & MSVC v142 for Windows
+
+### Windows
+ - (1) Create solution with template "Empty Solution (C++)"
+ - (2) Create "main.c" in Source Files
+ - (3) Copy the "main.c" of source code
+ - (4) Paste to "main.c" in visual studio solution
+ - (5) Build it then you can run PopCat from binary built
+
+### Unix
+ - (1) Download source code: 
+```git clone https://github.com/miniprime1/popcat-cli/```
+ - (2) Build source code:
+```gcc main.c -o popcat```
+ - (3) You can run PopCat use:
+```./popcat```
+
 ## Version Release
  - `[1.0]` Basic features
 
