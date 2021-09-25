@@ -36,14 +36,14 @@ On Linux you can use one of the following options to install the app:
  - (2) Create "main.c" in Source Files
  - (3) Copy the "main.c" of source code
  - (4) Paste to "main.c" in visual studio solution
- - (5) Build it then you can run PopCat from binary built
+ - (5) Build it then you can now run the built app.
 
 ### Unix
  - (1) Download source code: 
 ```git clone https://github.com/miniprime1/popcat-cli/```
  - (2) Build source code:
 ```gcc main.c -o popcat```
- - (3) You can run PopCat use:
+ - (3) You can now run the built app:
 ```./popcat```
 
 ## Version Release
