@@ -48,8 +48,5 @@ On Linux you can use one of the following options to install the app:
  - (3) You can now run the built app:
 ```./popcat```
 
-## Version Release
- - `[1.0]` Basic features
-
 ## License
  - [MIT License](LICENSE)
