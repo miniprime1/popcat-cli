@@ -49,4 +49,4 @@ On Linux you can use one of the following options to install the app:
 ```./popcat```
 
 ## License
- - [MIT License](LICENSE)
+ - [MIT License](license.txt)
