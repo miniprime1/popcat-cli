@@ -6,7 +6,7 @@ PopCat CLI provide best Popcat experience to CLI users
 
 ## Features
  - Support for Windows, MacOS, Linux
- - Popcat 
+ - Popcat App for CLI
 
 ## Install
 To install PopCat CLI, use the provided binary package or build from source code.
