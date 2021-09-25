@@ -1,8 +1,9 @@
 # PopCat CLI
-PopCat CLI is Popcat app for Command-line interface(CLI)
+pop pop pop pop pop pop pop pop
 
 ## Overview
-PopCat CLI provide best Popcat experience to CLI users
+PopCat CLI is Popcat app for Command-line interface(CLI)
+This app provide best Popcat experience to CLI users
 
 ## Features
  - Support for Windows, MacOS, Linux
