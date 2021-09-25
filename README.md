@@ -36,7 +36,8 @@ On Linux you can use one of the following options to install the app:
  - (2) Create "main.c" in Source Files
  - (3) Copy the "main.c" of source code
  - (4) Paste to "main.c" in visual studio solution
- - (5) Build it then you can now run the built app.
+ - (5) Build the solution
+ - (6) You can now run the built app.
 
 ### Unix
  - (1) Download source code: 
