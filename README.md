@@ -1,19 +1,30 @@
 # PopCat CLI
-pop pop pop pop pop pop pop pop
+PopCat CLI is Popcat app for Command-line interface(CLI)
 
-## Description
- - PopCat app in Command-line interface("CLI")
+## Overview
+PopCat CLI provide best Popcat experience to CLI users
 
-## How to use
- - (1) Install PopCat - If you choose installer installation
- - (2) Extract Embed Archive - If you choose embed installation
- - (3) Run PopCat
- - (4) Press Ctrl+C(keyboard interrupt) to exit
+## Features
+ - Support for Windows, MacOS, Linux
+ - Popcat 
 
-## Platform
- - Windows
- - MacOS
- - Linux
+## Install
+To install PopCat CLI, use the provided binary package or build from source code.
+
+### Windows
+On Windows you can use one of the following options to install the app:
+ - The Installer (popcat-1.0.0.exe)
+ - Portable Zip Package (popcat-1.0.0-embed-win32.zip)
+
+### MacOS
+On MacOS you can use one of the following options to install the app:
+ - Mac OS X Installer Package (popcat-1.0.0-macosx.pkg)
+ - Portable Zip Package (popcat-1.0.0-embed-macosx.zip)
+
+### Linux
+On Linux you can use one of the following options to install the app:
+ - Debian Software Package (popcat-1.0.0-linux.deb)
+ - Portable Zip Package (popcat-1.0.0-embed-linux.zip)
 
 ## Version Release
  - `[1.0]` Basic features
