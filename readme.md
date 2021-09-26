@@ -11,6 +11,7 @@ This app provide best Popcat experience to CLI users.
 
 ## Install
 To install PopCat CLI, use the provided binary package or build from source code.
+For unlisted systems, please follow the instructions in Build from Source Code.
 
 ### Windows
 On Windows you can use one of the following options to install the app:
