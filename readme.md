@@ -23,7 +23,7 @@ When using the Installer, please execuate follwing PowerShell command after inst
 $Env:Path += "C:\Program Files (x86)\PopCat CLI"
 ```
 
-When using Build from Source Code, please refer to the Build from Source Code documentation
+When using Build from Source Code, please refer to the Build from Source Code documentation.
 
 ### MacOS
 On MacOS you can use one of the following options to install the app:
@@ -36,7 +36,7 @@ When using the Installer, please execuate follwing command after installation:
 export PATH=/Library/PopCat/1.0.0/:$PATH"
 ```
 
-When using Build from Source Code, please refer to the Build from Source Code documentation
+When using Build from Source Code, please refer to the Build from Source Code documentation.
 
 ### Linux
 On Linux you can use one of the following options to install the app:
@@ -44,7 +44,7 @@ On Linux you can use one of the following options to install the app:
  - Portable Zip Package (popcat-1.0.0-embed-linux.zip)
  - Build from Source Code (popcat-1.0.0.tar.gz or popcat-1.0.0.tgz)
 
-When using the Build from Source Code, please refer to the Build from Source Code documentation
+When using the Build from Source Code, please refer to the Build from Source Code documentation.
 
 ## Build from Source Code
  To build the application from source code, first install the required dependencies:
