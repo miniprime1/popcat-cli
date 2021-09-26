@@ -18,9 +18,11 @@ On Windows you can use one of the following options to install the app:
  - Portable Zip Package (popcat-1.0.0-embed-win32.zip)
  - Build from Source Code (popcat-1.0.0.tar.gz or popcat-1.0.0.tgz)
 
-When using the Installer, please execuate follwing PowerShell command after installation:
+When using the Installer, please execuate follwing PowerShell command as a administrator after installation:
 ```
-$Env:Path += ";C:\Program Files (x86)\PopCat CLI"
+$OldPath = (Get-ItemProperty -Path 'Registry::HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment' -Name path).path
+$NewPath = "$OldPath;C:\Program Files (x86)\PopCat CLI"
+Set-ItemProperty -Path 'Registry::HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment' -Name path -Value $NewPath
 ```
 
 When using Build from Source Code, please refer to the Build from Source Code documentation.
