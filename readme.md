@@ -61,11 +61,17 @@ When using the Build from Source Code, please refer to the Build from Source Cod
 
 ### Unix: MacOS & Linux
  - (1) Download source code: 
-```git clone https://github.com/miniprime1/popcat-cli/```
+```
+git clone https://github.com/miniprime1/popcat-cli/
+```
  - (2) Build source code:
-```gcc main.c -o popcat```
+```
+gcc main.c -o popcat
+```
  - (3) You can now run the built app:
-```./popcat```
+```
+./popcat
+```
 
 ## License
  - [MIT License](license.txt)
