@@ -20,7 +20,7 @@ On Windows you can use one of the following options to install the app:
 
 When using the Installer, please execuate follwing PowerShell command after installation:
 ```
-$Env:Path += "C:\Program Files (x86)\PopCat CLI"
+$Env:Path += ";C:\Program Files (x86)\PopCat CLI"
 ```
 
 When using Build from Source Code, please refer to the Build from Source Code documentation.
