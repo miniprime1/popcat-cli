@@ -16,21 +16,33 @@ To install PopCat CLI, use the provided binary package or build from source code
 On Windows you can use one of the following options to install the app:
  - The Installer (popcat-1.0.0.exe)
  - Portable Zip Package (popcat-1.0.0-embed-win32.zip)
+ - Build from Source Code (popcat-1.0.0.tar.gz or popcat-1.0.0.tgz)
+
+When using the Installer, please execuate follwing PowerShell command after installation:
+```$Env:Path += "C:\Program Files (x86)\PopCat CLI"```
 
 ### MacOS
 On MacOS you can use one of the following options to install the app:
  - Mac OS X Installer Package (popcat-1.0.0-macosx.pkg)
  - Portable Zip Package (popcat-1.0.0-embed-macosx.zip)
+ - Build from Source Code (popcat-1.0.0.tar.gz or popcat-1.0.0.tgz)
+
+When using the Installer, please execuate follwing command after installation:
+```export PATH=/Library/__PRODUCT__/__VERSION__/:$PATH"```
+
 
 ### Linux
 On Linux you can use one of the following options to install the app:
  - Debian Software Package (popcat-1.0.0-linux.deb)
  - Portable Zip Package (popcat-1.0.0-embed-linux.zip)
+ - Build from Source Code (popcat-1.0.0.tar.gz or popcat-1.0.0.tgz)
+
+When using the Build from Source Code, please refer to the Build from Source Code documentation
 
 ## Build from Source Code
  To build the application from source code, first install the required dependencies:
-  - GCC 9.1.0+ for Unix
-  - Visual Studio 2019 & MSVC v142 for Windows
+  - GCC 9.1.0+ (for Unix)
+  - Visual Studio 2019 & MSVC v142 (for Windows)
 
 ### Windows
  - (1) Create solution with template "Empty Solution (C++)"
@@ -40,7 +52,7 @@ On Linux you can use one of the following options to install the app:
  - (5) Build the solution
  - (6) You can now run the built app.
 
-### Unix
+### Unix: MacOS & Linux
  - (1) Download source code: 
 ```git clone https://github.com/miniprime1/popcat-cli/```
  - (2) Build source code:
