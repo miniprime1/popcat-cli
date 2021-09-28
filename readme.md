@@ -36,7 +36,7 @@ On MacOS you can use one of the following options to install the app:
 
 When using the Installer, please execuate follwing command after installation:
 ```
-export PATH=/Library/PopCat/1.0.0/:$PATH"
+export PATH=/Library/PopCat/1.0.0/:$PATH
 ```
 
 When using Build from Source Code, please refer to the Build from Source Code documentation.
