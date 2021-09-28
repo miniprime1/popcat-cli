@@ -78,4 +78,4 @@ When using the Build from Source Code, please refer to the Build from Source Cod
 
 ## License
  - `Source` [MIT License](license.txt)
- - `MacOS Installer` [Apache License](Apache License)
+ - `MacOS Installer` [Apache License](/distribution/macos/pkg/macos-installer-builder-master/LICENSE)
