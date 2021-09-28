@@ -77,4 +77,5 @@ When using the Build from Source Code, please refer to the Build from Source Cod
    ```
 
 ## License
- - [MIT License](license.txt)
+ - `Source` [MIT License](license.txt)
+ - `MacOS Installer` [Apache License](Apache License)
