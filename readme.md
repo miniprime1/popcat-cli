@@ -62,7 +62,7 @@ When using the Build from Source Code, please refer to the Build from Source Cod
  - (5) Build the solution
  - (6) You can now run the built app.
 
-### Unix: MacOS & Linux
+### Unix (or Unix-like)
  - (1) Download source code: 
    ```
    git clone https://github.com/miniprime1/popcat-cli/
