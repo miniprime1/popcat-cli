@@ -77,5 +77,6 @@ When using the Build from Source Code, please refer to the Build from Source Cod
    ```
 
 ## License
- - `Everything except MacOS Installer` [MIT License](license.txt)
- - `MacOS Installer Package Source Code` [Apache License](/distribution/macos/pkg/macos-installer-builder-master/LICENSE)
+ - `Source Code` [MIT License](license.txt)
+ - `MacOS Installer Package Source` [Apache License](/distribution/macos/pkg/macos-installer-builder-master/LICENSE)
+ - `Original Popcat Gif File` [emoji.gg Basic License](https://emoji.gg/emoji/9850_pop_pop_cat)
