@@ -65,7 +65,7 @@ When using the Build from Source Code, please refer to the Build from Source Cod
 ### Unix (or Unix-like)
  - (1) Download source code: 
    ```
-   git clone https://github.com/miniprime1/popcat-cli/
+   git clone https://github.com/miniprime1/popcat-cli/ && cd popcat-cli
    ```
  - (2) Build source code:
    ```
