@@ -11,11 +11,11 @@
 
 #include <unistd.h>
 #define ClearConsole() system("clear");
-#define TimeSleep() sleep(1);
+#define TimeSleep() usleep(250000);
 
 #endif
 
-const char* popcat_openmouth_ascii =
+const char* popcat_opened_mouth =
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n"
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n"
 	"@@@,,,,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,,,,.@@@@@@@@\n"
@@ -44,7 +44,7 @@ const char* popcat_openmouth_ascii =
 	"@@@@@,***////***//**/**/////////////(///(((/@@@@@@\n"
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
 
-const char* popcat_closemouth_ascii =
+const char* popcat_closed_mouth =
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n"
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n"
 	"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,,,,,@@@@@@@\n"
@@ -76,10 +76,10 @@ const char* popcat_closemouth_ascii =
 int main() {
 	for (;;) {
 		ClearConsole();
-		printf("%s", popcat_closemouth_ascii);
+		printf("%s", popcat_closed_mouth);
 		TimeSleep();
 		ClearConsole();
-		printf("%s", popcat_openmouth_ascii);
+		printf("%s", popcat_opened_mouth);
 		TimeSleep();
 	}
 
